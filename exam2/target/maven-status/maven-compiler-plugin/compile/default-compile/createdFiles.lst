@@ -1,0 +1,9 @@
+com\johnabbott\login\configuration\DatabaseConfiguration.class
+com\johnabbott\login\controller\UserController.class
+com\johnabbott\login\configuration\WebAppInitializer.class
+com\johnabbott\login\dao\UserDao.class
+com\johnabbott\login\dao\UserDaoImpl.class
+com\johnabbott\login\service\UserService.class
+com\johnabbott\login\configuration\WebMvcConfig.class
+com\johnabbott\login\model\User.class
+com\johnabbott\login\service\UserServiceImpl.class
